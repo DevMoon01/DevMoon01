@@ -31,3 +31,8 @@
 
     Amo le sfide di coding come i hackathon! 🏆
     Passioni: 📚 lettura, 🎮 gaming, 🔎 CTF, 🍂 natura
+
+
+<img src="https://raw.githubusercontent.com/DEvMoon01/DEvMoon01/output/snake.svg" alt="Snake animation" />
+
+
