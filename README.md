@@ -1,16 +1,29 @@
-## Hi there 👋
+👋 Ciao! Sono Vincenzo
 
-<!--
-**DevMoon01/DevMoon01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Sviluppatore Full-Stack | 🌐 Appassionato di Tecnologia | 🚀 Innovatore
 
-Here are some ideas to get you started:
+🔧 Skill:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Frontend: HTML, CSS, JS
+    Backend: PHP
+    Database: MySQL
+    DevOps: Docker
+
+🌱 Attualmente sto imparando: Sicurezza Informatica, Python
+
+🛠️ Progetti Recenti:
+    🔍 EchoSpehere: Sto sviluppando un social network con caratteristiche diverse dal solito e con tantissime funzionalità.
+    🎨 Nome Progetto 2: Magazzino portatile per tenere traccia della merce. Vorrei implementare python per azioni esterne.
+
+🎯 Obiettivi: Creare soluzioni innovative che migliorano la vita delle persone. 🌟
+
+📫 Contattami:
+    LinkedIn: Ancora in sviluppo
+    Twitter: Ancora in sviluppo
+
+🔗 Link Utili:
+    Blog: Ancora in sviluppo
+
+✨ Fun Facts:
+    Amo le sfide di coding come i hackathon! 🏆
+    Passioni: 📚 lettura, 🎮 gaming, 🔎 CTF, 🍂 natura
