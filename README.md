@@ -33,6 +33,5 @@
     Passioni: 📚 lettura, 🎮 gaming, 🔎 CTF, 🍂 natura
 
 
-<img src="https://raw.githubusercontent.com/DevMoon01/DevMoon01/output/snake.svg" alt="Snake animation" />
 
 
