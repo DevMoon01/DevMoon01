@@ -20,7 +20,7 @@
 
 📫 Contattami:
 
-    LinkedIn: <a href="https://www.linkedin.com/in/vincenzo-c-2a4449314/">Guarda ora</a> 
+    LinkedIn: (https://www.linkedin.com/in/vincenzo-c-2a4449314/)
     Twitter: Ancora in sviluppo
 
 🔗 Link Utili:
